@@ -1,7 +1,7 @@
 # E-Commerce-System
 
 The E-commerce system is a robust and user-friendly application that provides a seamless online shopping experience. With this system, users can create accounts, browse a wide range of products, add items to their cart, and complete orders.
-
+--
 
 
 
@@ -14,6 +14,9 @@ Cart Management: Users can add and remove products from their cart, enabling the
 
 Order Placement: The system allows users to place orders, ensuring a smooth and secure transaction process.
 
+----
+
+
 Technologies Used:-
 The E-commerce system incorporates a range of technologies to deliver its functionality and provide an exceptional user experience. Some of the technologies used include:
 
@@ -22,7 +25,7 @@ Programming Language: The project is implemented using Java for efficient develo
 Search Functionality: Adding a search feature to allow users to quickly find specific products based on keywords or filters.
 
 
-
+-----
 
 KEY ACTIONS 👩🏻‍💻: -
 Here are some of the key actions and inputs that are performed within the E-commerce system:
